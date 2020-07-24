@@ -1,7 +1,7 @@
 var React = require('react');
 
 var About = (props) =>
-    <React.Fragment>
+    <div>
         <h2>About</h2>
         <p>Lorem Ipsum is simply dummy text of 
             the printing and typesetting industry. Lorem Ipsum has been the industry's 
@@ -11,7 +11,7 @@ var About = (props) =>
             typesetting, remaining essentially unchanged.
         </p>
 
-    </React.Fragment>
+    </div>
 
 
 
