@@ -1,0 +1,23 @@
+.page-title {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+
+input [type=search] {
+    box-shadow: none
+}
+
+.about-title {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+    font-weight: bold;
+}
+
+.example-title {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.text-title {
+    text-align: justify;
+}
